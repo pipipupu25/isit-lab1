@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "client_id": 1,
+    "executor_id": 1,
+    "title": "Протекает кран в каб. 104",
+    "status": "in_progress",
+    "priority": "high",
+    "created_at": "2026-10-15"
+  },
+  {
+    "id": 2,
+    "client_id": 2,
+    "executor_id": 2,
+    "title": "Замена лампы в аудитории 205",
+    "status": "done",
+    "priority": "medium",
+    "created_at": "2026-10-14"
+  }
+]
